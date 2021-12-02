@@ -1,0 +1,16 @@
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\bin\Debug\net5.0\practice1.exe
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\bin\Debug\net5.0\practice1.deps.json
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\bin\Debug\net5.0\practice1.runtimeconfig.json
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\bin\Debug\net5.0\practice1.runtimeconfig.dev.json
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\bin\Debug\net5.0\practice1.dll
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\bin\Debug\net5.0\ref\practice1.dll
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\bin\Debug\net5.0\practice1.pdb
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\obj\Debug\net5.0\practice1.csproj.AssemblyReference.cache
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\obj\Debug\net5.0\practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\obj\Debug\net5.0\practice1.AssemblyInfoInputs.cache
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\obj\Debug\net5.0\practice1.AssemblyInfo.cs
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\obj\Debug\net5.0\practice1.csproj.CoreCompileInputs.cache
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\obj\Debug\net5.0\practice1.dll
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\obj\Debug\net5.0\ref\practice1.dll
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\obj\Debug\net5.0\practice1.pdb
+C:\Users\kevin.o'kane\source\repos\practice1\practice1\obj\Debug\net5.0\practice1.genruntimeconfig.cache
